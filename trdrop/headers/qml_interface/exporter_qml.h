@@ -51,7 +51,7 @@ public:
     {
         if (isExporting())
         {
-            if (_export_options_model->export_as_imagesequence())
+            if (false)
             {
                 QString filepath = _create_image_file_path();
                 QImageWriter writer(filepath);
