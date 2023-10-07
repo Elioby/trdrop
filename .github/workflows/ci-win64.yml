@@ -1,5 +1,4 @@
 name: (Windows x64) Build and publish
-
 on: [push, pull_request]
 
 jobs:
